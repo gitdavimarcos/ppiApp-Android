@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/filipinho/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/filipinho/AndroidStudioProjects/ppiApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_f81e08d62ae976a8f59464a3c4377cb76546cd1b/classes.dex" />
+    </item>
+    <item
+        jar="/home/filipinho/AndroidStudioProjects/ppiApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/filipinho/AndroidStudioProjects/ppiApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_a345c18a6905a1151258f897c9de11f643d85bc5/classes.dex" />
+    </item>
+    <item
+        jar="/home/filipinho/AndroidStudioProjects/ppiApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9fb552b24b22e4c63397f372cfd2df51bfe98785">
+        <dex dex="/home/filipinho/AndroidStudioProjects/ppiApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4bb87613a4a027ca46409d9ab4fdbddf6c6669ee/classes.dex" />
+    </item>
+    <item
+        jar="/home/filipinho/AndroidStudioProjects/ppiApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/filipinho/AndroidStudioProjects/ppiApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_67f55450d1cd3503e0c172b0e8e288b53740c7c8/classes.dex" />
+    </item>
+    <item
+        jar="/home/filipinho/AndroidStudioProjects/ppiApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/filipinho/AndroidStudioProjects/ppiApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_956c2d1dccc9096e3f63a12c6e28f6c9d2c62eb0/classes.dex" />
+    </item>
+    <item
+        jar="/home/filipinho/AndroidStudioProjects/ppiApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2134b8db98058195e6ef6d428ddf3a6a9cc8391c">
+        <dex dex="/home/filipinho/AndroidStudioProjects/ppiApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9d2daa7b924dcb30c28e9a818c44ef9040be99f4/classes.dex" />
+    </item>
+    <item
+        jar="/home/filipinho/.gradle/caches/modules-2/files-2.1/org.parceler/parceler-api/1.1.1/d081ad6f7c51627ebe2dbf157cc525cbf5e9c821/parceler-api-1.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d081ad6f7c51627ebe2dbf157cc525cbf5e9c821">
+        <dex dex="/home/filipinho/AndroidStudioProjects/ppiApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/parceler-api-1.1.1_fc47dc44f2955535f3a465f3319b63ff2971092e/classes.dex" />
+    </item>
+
+</items>
